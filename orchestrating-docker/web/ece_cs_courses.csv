@@ -1,0 +1,825 @@
+Course,Instructor,Term,Title,NetId
+ECE-333,"Gross, George",2014-fa,Green Electric Energy,gross
+ECE-391,"Borisov, Nikita",2014-fa,Computer Systems Engineering,nikita
+ECE-343,"Radhakrishnan, Chandrasek",2014-fa,Electronic Circuits Laboratory,
+ECE-444,"Li, Xiuling",2018-sp,IC Device Theory & Fabrication,xiuling
+ECE-445,"Carney, Paul S",2013-sp,Senior Design Project Lab,
+ECE-313,"Lu, Yi",2018-sp,Probability with Engrg Applic,yilu4
+ECE-198,"Kindratenko, Volodymyr",2014-fa,Introduction to Computer Eng,kindrtnk
+ECE-534,"Srikant, Rayadurgam",2010-sp,Random Processes,rsrikant
+ECE-329,"Goddard, Lynford L",2011-sp,Fields and Waves I,lgoddard
+ECE-110,"Schmitz, Christopher",2016-fa,Introduction to Electronics,cdschmit
+ECE-569,"Carney, Paul S",2014-fa,Inverse Problems in Optics,
+ECE-517,"Liberzon, Daniel M",2015-fa,Nonlinear & Adaptive Control,liberzon
+ECE-313,"Lu, Yi",2015-sp,Probability with Engrg Applic,yilu4
+ECE-350,"Kudeki, Erhan",2017-fa,Fields and Waves II,erhan
+ECE-549,"Hoiem, Derek W",2017-sp,Computer Vision,dhoiem
+ECE-470,"Hutchinson, Seth A",2015-fa,Introduction to Robotics,seth
+ECE-445,"Reinhard, Karl E",2017-fa,Senior Design Project Lab,
+ECE-361,"Veeravalli, Venugopal V",2013-sp,Digital Communications,vvv
+ECE-431,"Krein, Philip T",2014-sp,Electric Machinery,krein
+ECE-340,"Leburton, Jean-Pierre",2012-sp,Semiconductor Electronics,jleburto
+ECE-439,"Kravets, Robin H",2013-fa,Wireless Networks,rhk
+ECE-535,"Leburton, Jean-Pierre",2014-fa,Theory of Semicond & Devices,jleburto
+ECE-469,"Pilawa, Robert",2013-fa,Power Electronics Laboratory,
+ECE-420,"Hasegawa-Johnso, Mark A",2015-fa,Embedded DSP Laboratory,
+ECE-290,"Brown, Donna J",2013-sp,Computer Engineering I,djb
+ECE-340,"Gilbert, Matthew",2014-sp,Semiconductor Electronics,matthewg
+ECE-534,"Katselis, Dimitrios",2018-sp,Random Processes,katselis
+ECE-551,"Dokmanic, Ivan",2018-fa,Digital Signal Processing II,dokmanic
+ECE-342,"Schutt-Aine, Jose E",2013-sp,Electronic Circuits,jesa
+ECE-515,"Mehta, Prashant G",2017-sp,Control System Theory & Design,mehtapg
+ECE-420,"Do, Minh N",2013-sp,Embedded DSP Laboratory,minhdo
+ECE-329,"Kudeki, Erhan",2012-sp,Fields and Waves I,erhan
+ECE-198,"Herman, Geoffrey L",2013-fa,Introduction to Computer Eng,
+ECE-304,"Choquette, Kent D",2018-fa,Photonic Devices,choquett
+ECE-515,"Baryshnikov, Juliy",2014-fa,Control System Theory & Design,
+ECE-101,"Schmitz, Christopher",2013-sp,Exploring Digital Info Technol,cdschmit
+ECE-456,"Gao, Xingxin",2013-fa,Global Nav Satellite Systems,
+ECE-329,"Dragic, Peter D",2016-sp,Fields and Waves I,p-dragic
+ECE-561,"Veeravalli, Venugopal V",2014-sp,Detection & Estimation Theory,vvv
+ECE-518,"Li, Xiuling",2015-fa,Adv Semiconductor Nanotech,xiuling
+ECE-311,"Lim, Teck Yian",2017-sp,Digital Signal Processing Lab,
+ECE-554,"Dominguez-Garci, Alejandr",2015-sp,Dynamic System Reliability,
+ECE-110,"Frizzell, Leon A",2010-fa,Intro Elec & Computer Engrg,frizz
+ECE-441,"Zhu, Wenjuan",2018-sp,Physcs & Modeling Semicond Dev,wjzhu
+ECE-340,"Lee, Minjoo L",2018-sp,Semiconductor Electronics,mllee
+ECE-490,"Kiyavash, Negar",2018-sp,Introduction to Optimization,
+ECE-549,"Hoiem, Derek W",2011-sp,Computer Vision,dhoiem
+ECE-470,"Bretl, Timothy W",2018-sp,Introduction to Robotics,tbretl
+ECE-380,"Boppart, Stephen A",2014-sp,Biomedical Imaging,boppart
+ECE-551,"Do, Minh N",2015-fa,Digital Signal Processing II,minhdo
+ECE-329,"McKeown, Steven J",2013-fa,Fields and Waves I,
+ECE-307,"Gross, George",2010-sp,Techniques for Engrg Decisions,gross
+ECE-304,"Choquette, Kent D",2014-fa,Photonic Devices,choquett
+ECE-342,"Rosenbaum, Elyse",2015-fa,Electronic Circuits,elyse
+ECE-220,"Hu, Yih-Chun",2015-fa,Computer Systems & Programming,yihchun
+ECE-441,"Leburton, Jean-Pierre",2011-sp,Physcs & Modeling Semicond Dev,jleburto
+ECE-330,"Sauer, Peter W",2014-fa,Power Ckts & Electromechanics,psauer
+ECE-311,"Bresler, Yoram",2016-fa,Digital Signal Processing Lab,ybresler
+ECE-534,"Moulin, Pierre",2010-fa,Random Processes,pmoulin
+ECE-441,"Leburton, Jean-Pierre",2016-sp,Physcs & Modeling Semicond Dev,jleburto
+ECE-408,"Hwu, Wen-Mei W",2018-sp,Applied Parallel Programming,
+ECE-310,"Liang, Zhi-Pei",2017-fa,Digital Signal Processing,z-liang
+ECE-526,"Vaidya, Nitin H",2016-fa,Distributed Algorithms,nhv
+ECE-206,"Haney, Michael J",2013-fa,Elec & Electronic Circuits Lab,
+ECE-483,"Hanumolu, Pavan Kumar",2017-sp,Analog IC Design,hanumolu
+ECE-316,"Hillmer, Philip M",2018-sp,Ethics and Engineering,hillmer
+ECE-317,"He, Wei",2017-sp,ECE Technology & Management,weihe16
+ECE-343,"Radhakrishnan, Chandrasek",2012-fa,Electronic Circuits Laboratory,
+ECE-402,"Haken, Lippold",2015-sp,Electronic Music Synthesis,l-haken
+ECE-453,"Franke, Steven J",2013-fa,Wireless Communication Systems,s-franke
+ECE-547,"Schwing, Alexander G",2017-sp,Topics in Image Processing,aschwing
+ECE-210,"Basar, Tangul",2013-sp,Analog Signal Processing,tangul
+ECE-518,"Li, Xiuling",2017-fa,Adv Semiconductor Nanotech,xiuling
+ECE-411,"Kumar, Rakesh",2015-sp,Computer Organization & Design,rakeshk
+ECE-385,"Chan, Sao-Jie",2011-sp,Digital Systems Laboratory,
+ECE-310,"Kamalabadi, Farzad",2014-fa,Digital Signal Processing,farzadk
+ECE-313,"Basar, Tangul",2010-fa,Probability with Engrg Applic,tangul
+ECE-469,"Banerjee, Arijit",2018-fa,Power Electronics Laboratory,arijit
+ECE-343,"Radhakrishnan, Chandrasek",2018-sp,Electronic Circuits Laboratory,
+ECE-311,"Singer, Andrew C",2013-sp,Digital Signal Processing Lab,acsinger
+ECE-310,"Bresler, Yoram",2015-fa,Digital Signal Processing,ybresler
+ECE-342,"Hanumolu, Pavan Kumar",2017-fa,Electronic Circuits,hanumolu
+ECE-333,"Reinhard, Karl E",2017-sp,Green Electric Energy,
+ECE-313,"Viswanath, Pramod",2013-sp,Probability with Engrg Applic,pramodv
+ECE-598,"Roy Choudhury, Romit",2017-sp,Mobile Sensing & Sensor Fusion,
+ECE-304,"Lee, Minjoo L",2016-fa,Photonic Devices,mllee
+ECE-437,"Makela, Jonathan J",2012-fa,Sensors and Instrumentation,jmakela
+ECE-220,"Mitra, Sayan",2015-sp,Computer Systems & Programming,mitras
+ECE-329,"Waldrop, Lara",2017-sp,Fields and Waves I,lwaldrop
+ECE-311,"Liang, Zhi-Pei",2017-fa,Digital Signal Processing Lab,z-liang
+ECE-342,"Hanumolu, Pavan Kumar",2016-fa,Electronic Circuits,hanumolu
+ECE-534,"Milenkovic, Olgica",2018-fa,Random Processes,milenkov
+ECE-329,"Waldrop, Lara",2012-fa,Fields and Waves I,lwaldrop
+ECE-439,"Roy Choudhury, Romit",2017-fa,Wireless Networks,
+ECE-462,"Patel, Janak H",2016-fa,Logic Synthesis,jhpatel
+ECE-330,"Sauer, Peter W",2013-fa,Power Ckts & Electromechanics,psauer
+ECE-445,"Makela, Jonathan J",2016-fa,Senior Design Project Lab,jmakela
+ECE-350,"Kudeki, Erhan",2016-fa,Fields and Waves II,erhan
+ECE-330,"Banerjee, Arijit",2017-sp,Power Ckts & Electromechanics,arijit
+ECE-385,"Cheng, Zuofu",2018-fa,Digital Systems Laboratory,zcheng1
+ECE-445,"Carney, Paul S",2010-sp,Senior Design Project Lab,
+ECE-420,"Levinson, Stephen E",2018-sp,Embedded DSP Laboratory,selevins
+ECE-210,"Alvarez, Juan",2018-fa,Analog Signal Processing,alvarez
+ECE-304,"Choquette, Kent D",2015-sp,Photonic Devices,choquett
+ECE-317,"Frizzell, Leon A",2014-sp,ECE Technology & Management,frizz
+ECE-498,"Roy Choudhury, Romit",2016-fa,Smartphone Computing & Appl.,
+ECE-313,"Lu, Yi",2016-sp,Probability with Engrg Applic,yilu4
+ECE-520,"Chuang, Shun L",2010-sp,EM Waves & Radiating Systems,
+ECE-313,"Alvarez, Juan",2011-fa,Probability with Engrg Applic,alvarez
+ECE-385,"Meng, Huan-Ting",2015-sp,Digital Systems Laboratory,
+ECE-340,"Gilbert, Matthew",2017-sp,Semiconductor Electronics,matthewg
+ECE-317,"Frizzell, Leon A",2016-sp,ECE Technology & Management,frizz
+ECE-343,"Radhakrishnan, Chandrasek",2015-fa,Electronic Circuits Laboratory,
+ECE-350,"Kudeki, Erhan",2014-fa,Fields and Waves II,erhan
+ECE-473,"Oelze, Michael L",2016-fa,Fund of Engrg Acoustics,oelze
+ECE-464,"Banerjee, Arijit",2018-fa,Power Electronics,arijit
+ECE-452,"Cangellaris, Andreas C",2012-fa,Electromagnetic Fields,cangella
+ECE-445,"Kumar, Rakesh",2016-sp,Senior Design Project Lab,rakeshk
+ECE-410,"Singer, Andrew C",2011-sp,Digital Signal Processing I,acsinger
+ECE-544,"Hasegawa-Johnso, Mark A",2016-fa,Pattern Recognition,
+ECE-515,"Dullerud, Geir E",2011-fa,Control System Theory & Design,dullerud
+ECE-205,"Haney, Michael J",2013-fa,Elec & Electronic Circuits,
+ECE-453,"Franke, Steven J",2017-sp,Wireless Communication Systems,s-franke
+ECE-313,"Milenkovic, Olgica",2010-sp,Probability with Engrg Applic,milenkov
+ECE-120,"Jaramillo Jimen, Juan Jos",2017-sp,Introduction to Computing,
+ECE-535,"Leburton, Jean-Pierre",2016-fa,Theory of Semicond & Devices,jleburto
+ECE-498,"Roy Choudhury, Romit",2018-sp,Smartphone computing and Appli,
+ECE-476,"Dominguez-Garci, Alejandr",2010-fa,Power System Analysis,
+ECE-481,"Lyding, Joseph W",2017-sp,Nanotechnology,lyding
+ECE-210,"Alvarez, Juan",2016-sp,Analog Signal Processing,alvarez
+ECE-199,"Varodayan, David",2017-fa,Undergraduate Open Seminar,
+ECE-416,"Cunningham, Brian T",2013-sp,Biosensors,bcunning
+ECE-333,"Chen, Yu",2014-sp,Green Electric Energy,
+ECE-453,"Franke, Steven J",2011-fa,Wireless Communication Systems,s-franke
+ECE-210,"Alvarez, Juan",2013-fa,Analog Signal Processing,alvarez
+ECE-451,"Schutt-Aine, Jose E",2017-sp,Adv Microwave Measurements,jesa
+ECE-486,"Meyn, Sean P",2011-sp,Control Systems,
+ECE-476,"Dominguez-Garci, Alejandr",2017-fa,Power System Analysis,
+ECE-342,"Hanumolu, Pavan Kumar",2016-sp,Electronic Circuits,hanumolu
+ECE-541,"Sanders, William H",2012-fa,Computer Systems Analysis,whs
+ECE-468,"Waldrop, Lara",2016-fa,Optical Remote Sensing,lwaldrop
+ECE-342,"Zhou, Jin",2018-fa,Electronic Circuits,jinzhou
+ECE-437,"Gruev, Viktor",2018-fa,Sensors and Instrumentation,vgruev
+ECE-340,"Feng, Milton",2015-fa,Semiconductor Electronics,mfeng
+ECE-206,"Ji, Yuxiao",2015-sp,Elec & Electronic Circuits Lab,
+ECE-563,"Veeravalli, Venugopal V",2010-fa,Information Theory,vvv
+ECE-205,"Haney, Michael J",2012-fa,Elec & Electronic Circuits,
+ECE-398,"Do, Minh N",2014-fa,Making Sense of Big Data,minhdo
+ECE-459,"Schmitz, Christopher",2011-fa,Communications Systems,cdschmit
+ECE-453,"Franke, Steven J",2015-fa,Wireless Communication Systems,s-franke
+ECE-444,"Coleman, James J",2013-sp,IC Device Theory & Fabrication,jcoleman
+ECE-544,"Schwing, Alexander G",2017-fa,Pattern Recognition,aschwing
+ECE-290,"Kalbarczyk, Zbigniew T",2012-fa,Computer Engineering I,kalbarcz
+ECE-314,"Hajek, Bruce",2017-sp,Probability in Engineering Lab,b-hajek
+ECE-330,"Sauer, Peter W",2014-sp,Power Ckts & Electromechanics,psauer
+ECE-290,"Brown, Donna J",2014-sp,Computer Engineering I,djb
+ECE-442,"Rosenbaum, Elyse",2011-sp,Electronic Circuits,elyse
+ECE-420,"Do, Minh N",2015-sp,Embedded DSP Laboratory,minhdo
+ECE-459,"Schmitz, Christopher",2012-fa,Communications Systems,cdschmit
+ECE-205,"Radhakrishnan, Chandrasek",2017-sp,Elec & Electronic Circuits,
+ECE-101,"Schmitz, Christopher",2010-sp,Exploring Digital Info Technol,cdschmit
+ECE-206,"Wang, Xinhao",2016-sp,Elec & Electronic Circuits Lab,
+ECE-205,"Cheng, Zuofu",2015-fa,Elec & Electronic Circuits,zcheng1
+ECE-210,"Peck, Timothy L",2010-sp,Analog Signal Processing,
+ECE-527,"Chen, Deming",2018-fa,System-On-Chip Design,dchen
+ECE-330,"Haran, Kiruba S",2016-fa,Power Ckts & Electromechanics,kharan
+ECE-205,"Cheng, Zuofu",2017-fa,Elec & Electronic Circuits,zcheng1
+ECE-544,"Schwing, Alexander G",2018-fa,Pattern Recognition,aschwing
+ECE-380,"Boppart, Stephen A",2013-sp,Biomedical Imaging,boppart
+ECE-120,"Jaramillo Jimen, Juan Jos",2016-sp,Introduction to Computing,
+ECE-329,"Schutt-Aine, Jose E",2013-sp,Fields and Waves I,jesa
+ECE-206,"Kar, Arunita",2016-fa,Elec & Electronic Circuits Lab,
+ECE-564,"Popescu, Gabriel",2015-sp,Modern Light Microscopy,gpopescu
+ECE-290,"Rogers, Michael B",2012-sp,Computer Engineering I,
+ECE-311,"Robinson, Sarah R",2015-sp,Digital Signal Processing Lab,
+ECE-198,"Kindratenko, Volodymyr",2013-sp,Intro to Computer Engineering,kindrtnk
+ECE-340,"Zhu, Wenjuan",2017-fa,Semiconductor Electronics,wjzhu
+ECE-342,"Schutt-Aine, Jose E",2012-sp,Electronic Circuits,jesa
+ECE-411,"Kim, Nam Sung",2017-fa,Computer Organization & Design,
+ECE-317,"Peck, Timothy L",2011-fa,ECE Technology & Management,
+ECE-442,"Schutt-Aine, Jose E",2010-sp,Electronic Circuits,jesa
+ECE-391,"Borisov, Nikita",2010-sp,Computer Systems Engineering,nikita
+ECE-350,"Kudeki, Erhan",2013-fa,Fields and Waves II,erhan
+ECE-483,"Shanbhag, Naresh R",2013-sp,Analog IC Design,shanbhag
+ECE-311,"Wei, Michael",2016-sp,Digital Signal Processing Lab,
+ECE-488,"Dallesasse, John M",2018-fa,Compound Semicond & Devices,jdallesa
+ECE-476,"Dominguez-Garci, Alejandr",2012-fa,Power System Analysis,
+ECE-420,"Do, Minh N",2017-sp,Embedded DSP Laboratory,minhdo
+ECE-416,"Cunningham, Brian T",2017-sp,Biosensors,bcunning
+ECE-444,"Choquette, Kent D",2010-fa,IC Device Theory & Fabrication,choquett
+ECE-408,"Patel, Sanjay J",2018-fa,Applied Parallel Programming,sjp
+ECE-418,"Moulin, Pierre",2017-sp,Image & Video Processing,pmoulin
+ECE-435,"Caesar, Matthew C",2018-fa,Computer Networking Laboratory,caesar
+ECE-420,"Levinson, Stephen E",2011-sp,Digital Signal Processing Lab,selevins
+ECE-210,"Leap, John",2012-sp,Analog Signal Processing,
+ECE-210,"Basar, Tangul",2012-fa,Analog Signal Processing,tangul
+ECE-343,"Radhakrishnan, Chandrasek",2013-fa,Electronic Circuits Laboratory,
+ECE-486,"Han, Yun Long",2018-sp,Control Systems,
+ECE-476,"Overbye, Thomas J",2016-fa,Power System Analysis,overbye
+ECE-402,"Haken, Lippold",2018-sp,Electronic Music Synthesis,l-haken
+ECE-481,"Lyding, Joseph W",2018-sp,Nanotechnology,lyding
+ECE-549,"Lazebnik, Svetlana",2018-sp,Computer Vision,
+ECE-485,"Liu, Gang L",2016-fa,MEMS Devices & Systems,
+ECE-490,"Srikant, Rayadurgam",2017-sp,Introduction to Optimization,rsrikant
+ECE-526,"Vaidya, Nitin H",2014-fa,Distributed Algorithms,nhv
+ECE-411,"Chen, Deming",2011-fa,Computer Organization & Design,dchen
+ECE-398,"Carney, Paul S",2015-fa,Innovation and Eng. Design,
+ECE-444,"Choquette, Kent D",2015-sp,IC Device Theory & Fabrication,choquett
+ECE-445,"Carney, Paul S",2015-sp,Senior Design Project Lab,
+ECE-541,"Nicol, David M",2013-fa,Computer Systems Analysis,dmnicol
+ECE-329,"Chen, Xu",2016-fa,Fields and Waves I,xuchen1
+ECE-520,"Jin, Jianming",2014-fa,EM Waves & Radiating Systems,j-jin1
+ECE-411,"Kumar, Rakesh",2016-fa,Computer Organization & Design,rakeshk
+ECE-420,"Hasegawa-Johnso, Mark A",2010-sp,Digital Signal Processing Lab,
+ECE-403,"Smaragdis, Paris",2014-sp,Audio Engineering,paris
+ECE-402,"Haken, Lippold",2014-fa,Electronic Music Synthesis,l-haken
+ECE-482,"Shanbhag, Naresh R",2015-fa,Digital IC Design,shanbhag
+ECE-549,"Forsyth, David A",2010-sp,Computer Vision,daf
+ECE-546,"Schutt-Aine, Jose E",2016-sp,Advanced Signal Integrity,jesa
+ECE-464,"Pilawa, Robert",2012-fa,Power Electronics,
+ECE-385,"Chen, Deming",2014-fa,Digital Systems Laboratory,dchen
+ECE-408,"Patel, Sanjay J",2015-fa,Applied Parallel Programming,sjp
+ECE-439,"Kravets, Robin H",2016-fa,Wireless Networks,rhk
+ECE-551,"Hasegawa-Johnso, Mark A",2012-fa,Digital Signal Processing II,
+ECE-418,"Do, Minh N",2014-sp,Image & Video Processing,minhdo
+ECE-598,"Raginsky, Maxim",2014-fa,Statistical Learning Theory,maxim
+ECE-454,"Bernhard, Jennifer T",2016-sp,Antennas,jbernhar
+ECE-444,"Sievers, Dane J",2016-fa,IC Device Theory & Fabrication,
+ECE-205,"Radhakrishnan, Chandrasek",2018-fa,Electrical & Electronic Ckts,
+ECE-451,"Schutt-Aine, Jose E",2015-fa,Adv Microwave Measurements,jesa
+ECE-485,"Liu, Gang L",2014-fa,MEMS Devices & Systems,
+ECE-402,"Haken, Lippold",2018-fa,Electronic Music Synthesis,l-haken
+ECE-330,"Schuh, Jonathon K",2018-fa,Power Ckts & Electromechanics,
+ECE-417,"Hasegawa-Johnso, Mark A",2015-sp,Multimedia Signal Processing,
+ECE-391,"Lumetta, Steven S",2011-fa,Computer Systems Engineering,lumetta
+ECE-408,"Hwu, Wen-Mei W",2012-fa,Applied Parallel Programming,
+ECE-534,"Srikant, Rayadurgam",2014-fa,Random Processes,rsrikant
+ECE-329,"Goddard, Lynford L",2018-sp,Fields and Waves I,lgoddard
+ECE-417,"Huang, Thomas S",2013-sp,Multimedia Signal Processing,t-huang1
+ECE-329,"Liang, Zhi-Pei",2014-sp,Fields and Waves I,z-liang
+ECE-110,"Choi, Hyungsoo",2017-sp,Introduction to Electronics,hyungsoo
+ECE-520,"Yan, Su",2016-fa,EM Waves & Radiating Systems,
+ECE-430,"Sauer, Peter W",2010-sp,Power Ckts & Electromechanics,psauer
+ECE-310,"Bresler, Yoram",2012-fa,Digital Signal Processing,ybresler
+ECE-304,"Choquette, Kent D",2013-sp,Photonic Devices,choquett
+ECE-380,"Boppart, Stephen A",2018-fa,Biomedical Imaging,boppart
+ECE-486,"Raginsky, Maxim",2016-fa,Control Systems,maxim
+ECE-316,"Hillmer, Philip M",2017-sp,Ethics and Engineering,hillmer
+ECE-470,"Hutchinson, Seth A",2017-fa,Introduction to Robotics,seth
+ECE-541,"Noureddine, Mohammad",2018-fa,Computer Systems Analysis,
+ECE-333,"Gross, George",2018-fa,Green Electric Energy,gross
+ECE-290,"Vasudevan, Shobha",2011-sp,Computer Engineering I,shobhav
+ECE-342,"Shanbhag, Naresh R",2018-sp,Electronic Circuits,shanbhag
+ECE-313,"Lu, Yi",2014-sp,Probability with Engrg Applic,yilu4
+ECE-462,"Vasudevan, Shobha",2011-fa,Logic Design,shobhav
+ECE-313,"Zhao, Zhizhen",2016-fa,Probability with Engrg Applic,zhizhenz
+ECE-402,"Haken, Lippold",2016-fa,Electronic Music Synthesis,l-haken
+ECE-402,"Haken, Lippold",2012-fa,Electronic Music Synthesis,l-haken
+ECE-470,"Hutchinson, Seth A",2014-fa,Introduction to Robotics,seth
+ECE-190,"Mitra, Sayan",2013-sp,Intro to Computing Systems,mitras
+ECE-459,"Alvarez, Juan",2016-fa,Communications Systems,alvarez
+ECE-482,"Rosenbaum, Elyse",2017-fa,Digital IC Design,elyse
+ECE-488,"Dallesasse, John M",2017-fa,Compound Semicond & Devices,jdallesa
+ECE-453,"Franke, Steven J",2013-sp,Wireless Communication Systems,s-franke
+ECE-586,"Liberzon, Daniel M",2013-fa,Hybrid Systems and Control,liberzon
+ECE-310,"Do, Minh N",2018-sp,Digital Signal Processing,minhdo
+ECE-298,"Allen, Jont",2016-fa,Concepts in Engineering Math,jontalle
+ECE-527,"Chen, Deming",2010-fa,System-On-Chip Design,dchen
+ECE-199,"Varodayan, David",2018-fa,Undergraduate Open Seminar,
+ECE-333,"O'Connell, Timothy C",2016-sp,Green Electric Energy,tcoconne
+ECE-527,"Chen, Deming",2017-fa,System-On-Chip Design,dchen
+ECE-329,"Cangellaris, Andreas C",2010-fa,Fields and Waves I,cangella
+ECE-391,"Kalbarczyk, Zbigniew T",2015-fa,Computer Systems Engineering,kalbarcz
+ECE-534,"Hajek, Bruce",2011-fa,Random Processes,b-hajek
+ECE-440,"Liu, Gang L",2011-sp,Solid State Electronic Devices,
+ECE-190,"Hu, Yih-Chun",2010-sp,Intro to Computing Systems,yihchun
+ECE-333,"Gross, George",2013-fa,Green Electric Energy,gross
+ECE-330,"Radhakrishnan, Chandrasek",2013-sp,Power Ckts & Electromechanics,
+ECE-528,"Beck, Carolyn L",2011-sp,Analysis of Nonlinear Systems,beck3
+ECE-515,"Liberzon, Daniel M",2017-fa,Control System Theory & Design,liberzon
+ECE-485,"Liu, Gang L",2013-fa,MEMS Devices & Systems,
+ECE-385,"Chen, Deming",2016-sp,Digital Systems Laboratory,dchen
+ECE-342,"Radhakrishnan, Chandrasek",2014-sp,Electronic Circuits,
+ECE-488,"Dallesasse, John M",2016-fa,Compound Semicond & Devices,jdallesa
+ECE-350,"Gong, Songbin",2018-sp,Fields and Waves II,songbin
+ECE-395,"Haken, Lippold",2016-fa,Advanced Digital Projects Lab,l-haken
+ECE-340,"Wasserman, Daniel M",2013-sp,Semiconductor Electronics,
+ECE-425,"Kindratenko, Volodymyr",2017-fa,Intro to VLSI System Design,kindrtnk
+ECE-395,"Haken, Lippold",2010-sp,Advanced Digital Projects Lab,l-haken
+ECE-408,"Lumetta, Steven S",2014-fa,Applied Parallel Programming,lumetta
+ECE-534,"Raginsky, Maxim",2015-fa,Random Processes,maxim
+ECE-343,"Radhakrishnan, Chandrasek",2012-sp,Electronic Circuits Laboratory,
+ECE-411,"Kumar, Rakesh",2013-sp,Computer Organization & Design,rakeshk
+ECE-541,"Nicol, David M",2016-fa,Computer Systems Analysis,dmnicol
+ECE-515,"Hutchinson, Seth A",2014-sp,Control System Theory & Design,seth
+ECE-110,"Schmitz, Christopher",2018-fa,Introduction to Electronics,cdschmit
+ECE-298,"Allen, Jont",2017-fa,Concepts in Engineering Math,jontalle
+ECE-486,"Belabbas, Mohamed Ali",2017-fa,Control Systems,belabbas
+ECE-444,"Li, Xiuling",2017-fa,IC Device Theory & Fabrication,xiuling
+ECE-220,"Kindratenko, Volodymyr",2016-sp,Computer Systems & Programming,kindrtnk
+ECE-333,"Dominguez-Garci, Alejandr",2010-sp,Green Electric Energy,
+ECE-210,"Jiang, Jing",2018-sp,Analog Signal Processing,
+ECE-220,"Chen, Yuting W",2016-fa,Computer Systems & Programming,ywchen
+ECE-457,"Gong, Songbin",2015-sp,Microwave Devices & Circuits,songbin
+ECE-311,"Bresler, Yoram",2013-fa,Digital Signal Processing Lab,ybresler
+ECE-310,"Liang, Zhi-Pei",2015-sp,Digital Signal Processing,z-liang
+ECE-313,"Veeravalli, Venugopal V",2012-fa,Probability with Engrg Applic,vvv
+ECE-483,"Hanumolu, Pavan Kumar",2015-sp,Analog IC Design,hanumolu
+ECE-469,"Krein, Philip T",2010-fa,Power Electronics Laboratory,krein
+ECE-316,"Hillmer, Philip M",2014-sp,Ethics and Engineering,hillmer
+ECE-210,"Basar, Tangul",2011-sp,Analog Signal Processing,tangul
+ECE-333,"Reinhard, Karl E",2018-sp,Green Electric Energy,
+ECE-535,"Leburton, Jean-Pierre",2010-fa,Theory of Semicond & Devices,jleburto
+ECE-454,"Bernhard, Jennifer T",2010-fa,Antennas,jbernhar
+ECE-581,"Hanumolu, Pavan Kumar",2014-fa,Advanced Analog IC Design,hanumolu
+ECE-425,"Wong, Martin D",2012-fa,Intro to VLSI System Design,mdfwong
+ECE-534,"Moulin, Pierre",2011-sp,Random Processes,pmoulin
+ECE-455,"Eden, James G",2012-fa,Optical Electronics,
+ECE-445,"Carney, Paul S",2011-sp,Senior Design Project Lab,
+ECE-431,"Bazzi, Ali M",2011-sp,Electric Machinery,
+ECE-310,"Radhakrishnan, Chandrasek",2017-sp,Digital Signal Processing,
+ECE-317,"Frizzell, Leon A",2015-sp,ECE Technology & Management,frizz
+ECE-330,"Sauer, Peter W",2011-fa,Power Ckts & Electromechanics,psauer
+ECE-473,"Oelze, Michael L",2014-sp,Fund of Engrg Acoustics,oelze
+ECE-310,"Shomorony, Ilan",2018-fa,Digital Signal Processing,ilans
+ECE-473,"Oelze, Michael L",2017-fa,Fund of Engrg Acoustics,oelze
+ECE-313,"Lu, Yi",2017-sp,Probability with Engrg Applic,yilu4
+ECE-457,"Gong, Songbin",2016-sp,Microwave Devices & Circuits,songbin
+ECE-431,"Haran, Kiruba S",2018-sp,Electric Machinery,kharan
+ECE-310,"Do, Minh N",2016-sp,Digital Signal Processing,minhdo
+ECE-527,"Chen, Deming",2015-fa,System-On-Chip Design,dchen
+ECE-313,"Alvarez, Juan",2015-fa,Probability with Engrg Applic,alvarez
+ECE-402,"Haken, Lippold",2013-fa,Electronic Music Synthesis,l-haken
+ECE-455,"Eden, James G",2016-fa,Optical Electronics,
+ECE-395,"Haken, Lippold",2013-sp,Advanced Digital Projects Lab,l-haken
+ECE-520,"Jin, Jianming",2018-fa,EM Waves & Radiating Systems,j-jin1
+ECE-411,"Kumar, Rakesh",2012-fa,Computer Organization & Design,rakeshk
+ECE-454,"Kudeki, Erhan",2018-sp,Antennas,erhan
+ECE-498,"Roy Choudhury, Romit",2016-sp,"Mobile Sensing, Comp, and Appl",
+ECE-416,"Cunningham, Brian T",2010-sp,Biosensors,bcunning
+ECE-385,"Cheng, Zuofu",2016-fa,Digital Systems Laboratory,zcheng1
+ECE-206,"Zhang, Jianhua",2011-fa,Elec & Electronic Circuits Lab,jhdzhang
+ECE-206,"Radhakrishnan, Chandrasek",2018-sp,Elec & Electronic Circuits Lab,
+ECE-470,"Bretl, Timothy W",2012-fa,Introduction to Robotics,tbretl
+ECE-515,"Bolouki, Sadegh",2016-fa,Control System Theory & Design,
+ECE-110,"Haken, Lippold",2014-sp,Intro Elec & Computer Engrg,l-haken
+ECE-342,"Hajj, Ibrahim N",2013-fa,Electronic Circuits,ihajj
+ECE-316,"Hillmer, Philip M",2011-fa,Ethics and Engineering,hillmer
+ECE-598,"Li, Xiuling",2012-fa,Special Topics in ECE,xiuling
+ECE-469,"Krein, Philip T",2011-fa,Power Electronics Laboratory,krein
+ECE-307,"Gross, George",2015-sp,Techniques for Engrg Decisions,gross
+ECE-549,"Lazebnik, Svetlana",2013-sp,Computer Vision,
+ECE-444,"Li, Xiuling",2017-sp,IC Device Theory & Fabrication,xiuling
+ECE-445,"Makela, Jonathan J",2013-fa,Senior Design Project Lab,jmakela
+ECE-476,"Dominguez-Garci, Alejandr",2018-fa,Power System Analysis,
+ECE-330,"Sauer, Peter W",2015-fa,Power Ckts & Electromechanics,psauer
+ECE-481,"Lyding, Joseph W",2016-sp,Nanotechnology,lyding
+ECE-498,"Roy Choudhury, Romit",2015-sp,Smartphone Computing and Appli,
+ECE-391,"Kalbarczyk, Zbigniew T",2018-fa,Computer Systems Engineering,kalbarcz
+ECE-330,"Fliflet, Arne W",2016-sp,Power Ckts & Electromechanics,afliflet
+ECE-391,"Lumetta, Steven S",2013-fa,Computer Systems Engineering,lumetta
+ECE-420,"Allen, Jont",2017-fa,Embedded DSP Laboratory,jontalle
+ECE-199,"Varodayan, David",2016-fa,Undergraduate Open Seminar,
+ECE-444,"Li, Xiuling",2014-sp,IC Device Theory & Fabrication,xiuling
+ECE-391,"Kalbarczyk, Zbigniew T",2018-sp,Computer Systems Engineering,kalbarcz
+ECE-462,"Vasudevan, Shobha",2013-fa,Logic Design,shobhav
+ECE-350,"Kudeki, Erhan",2014-sp,Fields and Waves II,erhan
+ECE-461,"Viswanath, Pramod",2018-sp,Digital Communications,pramodv
+ECE-304,"Choquette, Kent D",2015-fa,Photonic Devices,choquett
+ECE-395,"Haken, Lippold",2017-sp,Advanced Digital Projects Lab,l-haken
+ECE-385,"Meng, Huan-Ting",2013-fa,Digital Systems Laboratory,
+ECE-483,"Hanumolu, Pavan Kumar",2016-sp,Analog IC Design,hanumolu
+ECE-470,"Hutchinson, Seth A",2010-fa,Introduction to Robotics,seth
+ECE-515,"Salapaka, Srinivasa M",2013-sp,Control System Theory & Design,
+ECE-464,"Krein, Philip T",2011-fa,Power Electronics,krein
+ECE-546,"Schutt-Aine, Jose E",2018-sp,Advanced Signal Integrity,jesa
+ECE-316,"Hillmer, Philip M",2013-fa,Ethics and Engineering,hillmer
+ECE-453,"Franke, Steven J",2015-sp,Wireless Communication Systems,s-franke
+ECE-120,"Kindratenko, Volodymyr",2015-sp,Introduction to Computing,kindrtnk
+ECE-316,"Hillmer, Philip M",2018-fa,Ethics and Engineering,hillmer
+ECE-416,"Cunningham, Brian T",2015-sp,Biosensors,bcunning
+ECE-456,"Makela, Jonathan J",2015-fa,Global Nav Satellite Systems,jmakela
+ECE-310,"Bresler, Yoram",2016-fa,Digital Signal Processing,ybresler
+ECE-420,"Do, Minh N",2013-fa,Embedded DSP Laboratory,minhdo
+ECE-464,"Pilawa Podgursk, Robert C",2016-fa,Power Electronics,
+ECE-206,"Zhang, Jianhua",2011-sp,Elec & Electronic Circuits Lab,jhdzhang
+ECE-485,"Liu, Gang L",2016-sp,MEMS Devices & Systems,
+ECE-458,"Kudeki, Erhan",2010-sp,Applic of Radio Wave Propag,erhan
+ECE-468,"Waldrop, Lara",2018-sp,Optical Remote Sensing,lwaldrop
+ECE-532,"Choquette, Kent D",2013-fa,Compnd Semicond & Diode Lasers,choquett
+ECE-553,"Liberzon, Daniel M",2010-sp,Optimum Control Systems,liberzon
+ECE-454,"Bernhard, Jennifer T",2015-sp,Antennas,jbernhar
+ECE-333,"Gross, George",2017-fa,Green Electric Energy,gross
+ECE-313,"Iyer, Ravishankar K",2013-fa,Probability with Engrg Applic,rkiyer
+ECE-220,"Chen, Yuting W",2017-fa,Computer Systems & Programming,ywchen
+ECE-391,"Kalbarczyk, Zbigniew T",2017-sp,Computer Systems Engineering,kalbarcz
+ECE-536,"Chuang, Shun L",2011-sp,Integ Optics & Optoelectronics,
+ECE-329,"Fliflet, Arne W",2015-sp,Fields and Waves I,afliflet
+ECE-385,"Meng, Huan-Ting",2012-fa,Digital Systems Laboratory,
+ECE-206,"Haney, Michael J",2014-sp,Elec & Electronic Circuits Lab,
+ECE-481,"Lyding, Joseph W",2014-sp,Nanotechnology,lyding
+ECE-543,"Raginsky, Maxim",2018-sp,Statistical Learning Theory,maxim
+ECE-544,"Hasegawa-Johnso, Mark A",2014-fa,Pattern Recognition,
+ECE-551,"Liang, Zhi-Pei",2013-fa,Digital Signal Processing II,z-liang
+ECE-469,"Pilawa Podgursk, Robert C",2015-fa,Power Electronics Laboratory,
+ECE-563,"Varshney, Lav R",2018-fa,Information Theory,varshney
+ECE-486,"Liberzon, Daniel M",2012-fa,Control Systems,liberzon
+ECE-553,"Liberzon, Daniel M",2013-sp,Optimum Control Systems,liberzon
+ECE-190,"Hu, Yih-Chun",2011-sp,Intro to Computing Systems,yihchun
+ECE-476,"Overbye, Thomas J",2011-fa,Power System Analysis,overbye
+ECE-473,"Oelze, Michael L",2013-fa,Fund of Engrg Acoustics,oelze
+ECE-528,"Dullerud, Geir E",2010-sp,Analysis of Nonlinear Systems,dullerud
+ECE-398,"Choquette, Kent D",2011-fa,Special Topics in ECE,choquett
+ECE-307,"Gross, George",2016-sp,Techniques for Engrg Decisions,gross
+ECE-398,"Miller, Andrew E",2018-sp,Smart Contracts & Blockchain S,soc1024
+ECE-110,"Schmitz, Christopher",2015-fa,Introduction to Electronics,cdschmit
+ECE-411,"Hwu, Wen-Mei W",2014-sp,Computer Organization & Design,
+ECE-290,"Loui, Michael C",2013-fa,Computer Engineering I,loui
+ECE-343,"Radhakrishnan, Chandrasek",2015-sp,Electronic Circuits Laboratory,
+ECE-205,"Cheng, Zuofu",2016-fa,Elec & Electronic Circuits,zcheng1
+ECE-402,"Haken, Lippold",2011-fa,Electronic Music Synthesis,l-haken
+ECE-453,"Franke, Steven J",2014-fa,Wireless Communication Systems,s-franke
+ECE-442,"Schutt-Aine, Jose E",2010-fa,Electronic Circuits,jesa
+ECE-459,"Alvarez, Juan",2015-fa,Communications Systems,alvarez
+ECE-488,"Feng, Milton",2014-sp,Compound Semicond & Devices,mfeng
+ECE-398,"Viswanath, Pramod",2016-sp,Making Sense of Big Data,pramodv
+ECE-486,"Raginsky, Maxim",2018-fa,Control Systems,maxim
+ECE-464,"Pilawa, Robert",2013-fa,Power Electronics,
+ECE-418,"Kamalabadi, Farzad",2013-sp,Image & Video Processing,farzadk
+ECE-120,"Varodayan, David",2017-fa,Introduction to Computing,
+ECE-316,"Hillmer, Philip M",2013-sp,Ethics and Engineering,hillmer
+ECE-329,"Fliflet, Arne W",2014-fa,Fields and Waves I,afliflet
+ECE-206,"Zhang, Jianhua",2010-sp,Elec & Electronic Circuits Lab,jhdzhang
+ECE-510,"Jain, Kanti",2012-fa,Micro and Nanolithography,kjain
+ECE-316,"Hillmer, Philip M",2014-fa,Ethics and Engineering,hillmer
+ECE-527,"Chen, Deming",2013-fa,System-On-Chip Design,dchen
+ECE-313,"Zhao, Zhizhen",2017-fa,Probability with Engrg Applic,zhizhenz
+ECE-445,"Carney, Paul S",2015-fa,Senior Design Project Lab,
+ECE-220,"Chen, Yuting W",2017-sp,Computer Systems & Programming,ywchen
+ECE-110,"Schmitz, Christopher",2014-fa,Introduction to Electronics,cdschmit
+ECE-343,"Radhakrishnan, Chandrasek",2016-sp,Electronic Circuits Laboratory,
+ECE-451,"Schutt-Aine, Jose E",2013-fa,Adv Microwave Measurements,jesa
+ECE-420,"Allen, Jont",2016-sp,Embedded DSP Laboratory,jontalle
+ECE-391,"Kalbarczyk, Zbigniew T",2016-fa,Computer Systems Engineering,kalbarcz
+ECE-511,"Kim, Nam Sung",2016-fa,Computer Architecture,
+ECE-402,"Haken, Lippold",2016-sp,Electronic Music Synthesis,l-haken
+ECE-464,"Banerjee, Arijit",2017-fa,Power Electronics,arijit
+ECE-411,"Kumar, Rakesh",2011-sp,Computer Organization & Design,rakeshk
+ECE-443,"Zhang, Jianhua",2010-fa,Electronic Circuits Laboratory,jhdzhang
+ECE-425,"Wong, Martin D",2013-fa,Intro to VLSI System Design,mdfwong
+ECE-342,"Shanbhag, Naresh R",2011-fa,Electronic Circuits,shanbhag
+ECE-515,"LaViers Minnick, Amy E",2016-sp,Control System Theory & Design,
+ECE-205,"Mohamed, Mohamed Y",2012-sp,Elec & Electronic Circuits,
+ECE-316,"Hillmer, Philip M",2010-sp,Ethics and Engineering,hillmer
+ECE-395,"Haken, Lippold",2014-sp,Advanced Digital Projects Lab,l-haken
+ECE-210,"Eden, James G",2015-sp,Analog Signal Processing,
+ECE-101,"Schmitz, Christopher",2010-fa,Exploring Digital Info Technol,cdschmit
+ECE-402,"Haken, Lippold",2010-fa,Electronic Music Synthesis,l-haken
+ECE-490,"Kiyavash, Negar",2015-sp,Introduction to Optimization,
+ECE-563,"Moulin, Pierre",2012-fa,Information Theory,pmoulin
+ECE-451,"Schutt-Aine, Jose E",2014-fa,Adv Microwave Measurements,jesa
+ECE-470,"Belabbas, Mohamed Ali",2018-fa,Introduction to Robotics,belabbas
+ECE-417,"Hasegawa-Johnso, Mark A",2017-fa,Multimedia Signal Processing,
+ECE-457,"Gong, Songbin",2017-sp,Microwave Devices & Circuits,songbin
+ECE-310,"Bresler, Yoram",2013-fa,Digital Signal Processing,ybresler
+ECE-110,"Minin, Serge",2015-sp,Introduction to Electronics,
+ECE-541,"Sanders, William H",2014-fa,Computer Systems Analysis,whs
+ECE-528,"Liberzon, Daniel M",2015-sp,Analysis of Nonlinear Systems,liberzon
+ECE-550,"Hutchinson, Seth A",2016-sp,Advanced Robotic Planning,seth
+ECE-444,"Li, Xiuling",2018-fa,IC Device Theory & Fabrication,xiuling
+ECE-333,"Dominguez-Garci, Alejandr",2011-sp,Green Electric Energy,
+ECE-210,"Hasegawa-Johnso, Mark A",2015-fa,Analog Signal Processing,
+ECE-534,"Srikant, Rayadurgam",2013-sp,Random Processes,rsrikant
+ECE-586,"Srikant, Rayadurgam",2011-fa,Topics in Decision and Control,rsrikant
+ECE-410,"Ahuja, Narendra",2010-sp,Digital Signal Processing I,n-ahuja
+ECE-311,"Singer, Andrew C",2014-fa,Digital Signal Processing Lab,acsinger
+ECE-110,"Schmitz, Christopher",2017-fa,Introduction to Electronics,cdschmit
+ECE-485,"Liu, Gang L",2012-fa,MEMS Devices & Systems,
+ECE-199,"Jones, Douglas L",2012-fa,Undergraduate Open Seminar,dl-jones
+ECE-304,"Choquette, Kent D",2012-fa,Photonic Devices,choquett
+ECE-206,"Zhang, Jianhua",2010-fa,Elec & Electronic Circuits Lab,jhdzhang
+ECE-431,"Haran, Kiruba S",2017-sp,Electric Machinery,kharan
+ECE-437,"Makela, Jonathan J",2010-fa,Sensors and Instrumentation,jmakela
+ECE-439,"Kravets, Robin H",2015-fa,Wireless Networks,rhk
+ECE-120,"Kindratenko, Volodymyr",2018-fa,Introduction to Computing,kindrtnk
+ECE-398,"Carney, Paul S",2016-fa,Innovation and Eng. Design,
+ECE-453,"Franke, Steven J",2017-fa,Wireless Communication Systems,s-franke
+ECE-566,"Moulin, Pierre",2018-fa,Computational Inference,pmoulin
+ECE-444,"Lyding, Joseph W",2012-fa,IC Device Theory & Fabrication,lyding
+ECE-490,"Kumar, P R",2011-sp,Introduction to Optimization,
+ECE-343,"Radhakrishnan, Chandrasek",2013-sp,Electronic Circuits Laboratory,
+ECE-417,"Hasegawa-Johnso, Mark A",2014-sp,Multimedia Signal Processing,
+ECE-385,"Cheng, Zuofu",2018-sp,Digital Systems Laboratory,zcheng1
+ECE-459,"Basar, Tangul",2013-fa,Communications Systems,tangul
+ECE-343,"Radhakrishnan, Chandrasek",2016-fa,Electronic Circuits Laboratory,
+ECE-534,"Hajek, Bruce",2013-fa,Random Processes,b-hajek
+ECE-385,"Cheng, Zuofu",2017-fa,Digital Systems Laboratory,zcheng1
+ECE-120,"Kindratenko, Volodymyr",2015-fa,Introduction to Computing,kindrtnk
+ECE-576,"Overbye, Thomas J",2014-sp,Power System Dynm & Stability,overbye
+ECE-311,"Bresler, Yoram",2015-fa,Digital Signal Processing Lab,ybresler
+ECE-517,"Liberzon, Daniel M",2018-fa,Nonlinear & Adaptive Control,liberzon
+ECE-453,"Franke, Steven J",2016-fa,Wireless Communication Systems,s-franke
+ECE-482,"Rosenbaum, Elyse",2016-fa,Digital IC Design,elyse
+ECE-481,"Lyding, Joseph W",2011-sp,Nanotechnology,lyding
+ECE-515,"Baryshnikov, Yuliy",2018-fa,Control System Theory & Design,ymb
+ECE-316,"Hillmer, Philip M",2015-fa,Ethics and Engineering,hillmer
+ECE-535,"Leburton, Jean-Pierre",2011-fa,Theory of Semicond & Devices,jleburto
+ECE-411,"Kim, Nam Sung",2018-sp,Computer Organization & Design,
+ECE-333,"O'Connell, Timothy C",2013-sp,Green Electric Energy,tcoconne
+ECE-398,"Milenkovic, Olgica",2015-sp,Making Sense of Big Data,milenkov
+ECE-520,"Jin, Jianming",2017-fa,EM Waves & Radiating Systems,j-jin1
+ECE-445,"Oelze, Michael L",2014-fa,Senior Design Project Lab,oelze
+ECE-316,"Hillmer, Philip M",2016-sp,Ethics and Engineering,hillmer
+ECE-534,"Raginsky, Maxim",2012-fa,Random Processes,maxim
+ECE-510,"Jain, Kanti",2013-fa,Micro and Nanolithography,kjain
+ECE-329,"Waldrop, Lara",2011-fa,Fields and Waves I,lwaldrop
+ECE-190,"Nicol, David M",2010-fa,Intro to Computing Systems,dmnicol
+ECE-110,"Haken, Lippold",2010-sp,Intro Elec & Computer Engrg,l-haken
+ECE-205,"Zhang, Jianhua",2011-sp,Elec & Electronic Circuits,jhdzhang
+ECE-110,"Schmitz, Christopher",2013-fa,Intro Elec & Computer Engrg,cdschmit
+ECE-453,"Franke, Steven J",2012-fa,Wireless Communication Systems,s-franke
+ECE-566,"Moulin, Pierre",2017-fa,Computational Inference,pmoulin
+ECE-515,"Meyn, Sean P",2010-sp,Control System Theory & Design,
+ECE-520,"Jin, Jianming",2015-fa,EM Waves & Radiating Systems,j-jin1
+ECE-398,"Do, Minh N",2018-fa,Making Sense of Big Data,minhdo
+ECE-431,"Haran, Kiruba S",2016-sp,Electric Machinery,kharan
+ECE-391,"Borisov, Nikita",2016-sp,Computer Systems Engineering,nikita
+ECE-411,"Kumar, Rakesh",2014-fa,Computer Organization & Design,rakeshk
+ECE-534,"Srikant, Rayadurgam",2015-sp,Random Processes,rsrikant
+ECE-482,"Shanbhag, Naresh R",2018-fa,Digital IC Design,shanbhag
+ECE-198,"Vasudevan, Shobha",2014-sp,Intro to Computer Engineering,shobhav
+ECE-476,"Dominguez-Garci, Alejandr",2014-fa,Power System Analysis,
+ECE-210,"Schutt-Aine, Jose E",2016-fa,Analog Signal Processing,jesa
+ECE-206,"Haney, Michael J",2013-sp,Elec & Electronic Circuits Lab,
+ECE-517,"Liberzon, Daniel M",2013-fa,Nonlinear & Adaptive Control,liberzon
+ECE-455,"Eden, James G",2017-fa,Optical Electronics,
+ECE-473,"Oelze, Michael L",2012-fa,Fund of Engrg Acoustics,oelze
+ECE-398,"Bresler, Yoram",2017-fa,Making Sense of Big Data,ybresler
+ECE-199,"Varodayan, David",2017-sp,ECE 110 Merit Section,
+ECE-486,"Belabbas, Mohamed Ali",2017-sp,Control Systems,belabbas
+ECE-304,"Choquette, Kent D",2013-fa,Photonic Devices,choquett
+ECE-440,"Gilbert, Matthew",2010-sp,Solid State Electronic Devices,matthewg
+ECE-534,"Milenkovic, Olgica",2017-fa,Random Processes,milenkov
+ECE-456,"Gao, Xingxin",2016-fa,Global Nav Satellite Systems,
+ECE-329,"Waldrop, Lara",2018-fa,Fields and Waves I,lwaldrop
+ECE-340,"Liu, Gang L",2014-fa,Semiconductor Electronics,
+ECE-534,"Veeravalli, Venugopal V",2016-sp,Random Processes,vvv
+ECE-205,"Cheng, Zuofu",2014-fa,Elec & Electronic Circuits,zcheng1
+ECE-316,"Hillmer, Philip M",2015-sp,Ethics and Engineering,hillmer
+ECE-342,"Hanumolu, Pavan Kumar",2015-sp,Electronic Circuits,hanumolu
+ECE-437,"Bernhard, Jennifer T",2011-fa,Sensors and Instrumentation,jbernhar
+ECE-515,"Salapaka, Srinivasa M",2011-sp,Control System Theory & Design,
+ECE-476,"Overbye, Thomas J",2015-fa,Power System Analysis,overbye
+ECE-437,"Gruev, Viktor",2017-sp,Sensors and Instrumentation,vgruev
+ECE-391,"Bailey, Michael D",2017-fa,Computer Systems Engineering,mdbailey
+ECE-411,"Kumar, Rakesh",2010-sp,Computer Organization & Design,rakeshk
+ECE-395,"Haken, Lippold",2011-sp,Advanced Digital Projects Lab,l-haken
+ECE-490,"Hu, Bin",2018-fa,Introduction to Optimization,binhu7
+ECE-486,"Raginsky, Maxim",2014-sp,Control Systems,maxim
+ECE-350,"Kudeki, Erhan",2012-fa,Fields and Waves II,erhan
+ECE-469,"Krein, Philip T",2014-fa,Power Electronics Laboratory,krein
+ECE-290,"Brown, Donna J",2010-fa,Computer Engineering I,djb
+ECE-110,"Haken, Lippold",2013-sp,Intro Elec & Computer Engrg,l-haken
+ECE-473,"Oelze, Michael L",2014-fa,Fund of Engrg Acoustics,oelze
+ECE-480,"Liang, Zhi-Pei",2014-fa,Magnetic Resonance Imaging,z-liang
+ECE-486,"Belabbas, Mohamed Ali",2014-fa,Control Systems,belabbas
+ECE-411,"Kumar, Rakesh",2017-sp,Computer Organization & Design,rakeshk
+ECE-418,"Do, Minh N",2015-sp,Image & Video Processing,minhdo
+ECE-464,"Pilawa Podgursk, Robert C",2015-fa,Power Electronics,
+ECE-402,"Haken, Lippold",2015-fa,Electronic Music Synthesis,l-haken
+ECE-549,"Lazebnik, Svetlana",2016-sp,Computer Vision,
+ECE-333,"Davis, Katherine M",2012-fa,Green Electric Energy,krogers6
+ECE-361,"Varshney, Lav R",2016-sp,Digital Communications,varshney
+ECE-445,"Fliflet, Arne W",2018-fa,Senior Design Project Lab,afliflet
+ECE-457,"Bernhard, Jennifer T",2014-sp,Microwave Devices & Circuits,jbernhar
+ECE-485,"Liu, Gang L",2011-fa,MEMS Devices & Systems,
+ECE-462,"Chen, Deming",2018-sp,Logic Synthesis,dchen
+ECE-547,"Huang, Thomas S",2011-fa,Topics in Image Processing,t-huang1
+ECE-206,"Harris, Kyle A",2012-fa,Elec & Electronic Circuits Lab,
+ECE-391,"Borisov, Nikita",2011-sp,Computer Systems Engineering,nikita
+ECE-380,"Boppart, Stephen A",2017-fa,Biomedical Imaging,boppart
+ECE-110,"Minin, Serge",2016-sp,Introduction to Electronics,
+ECE-350,"Kudeki, Erhan",2015-fa,Fields and Waves II,erhan
+ECE-551,"Hasegawa-Johnso, Mark A",2011-fa,Digital Signal Processing II,
+ECE-473,"King, Daniel A",2013-sp,Fund of Engrg Acoustics,
+ECE-561,"Veeravalli, Venugopal V",2010-sp,Detection & Estimation Theory,vvv
+ECE-316,"Hillmer, Philip M",2011-sp,Ethics and Engineering,hillmer
+ECE-340,"Leburton, Jean-Pierre",2016-fa,Semiconductor Electronics,jleburto
+ECE-455,"Eden, James G",2013-fa,Optical Electronics,
+ECE-490,"Srikant, Rayadurgam",2014-sp,Introduction to Optimization,rsrikant
+ECE-431,"Krein, Philip T",2010-sp,Electric Machinery,krein
+ECE-298,"Chen, Deming",2014-sp,Digital System Design Lab,dchen
+ECE-469,"Pilawa Podgursk, Robert C",2016-fa,Power Electronics Laboratory,
+ECE-330,"Sowidan, Hassan",2017-fa,Power Ckts & Electromechanics,
+ECE-329,"Ilie, Raluca",2017-fa,Fields and Waves I,rilie
+ECE-515,"Dullerud, Geir E",2015-sp,Control System Theory & Design,dullerud
+ECE-441,"Leburton, Jean-Pierre",2010-sp,Physcs & Modeling Semicond Dev,jleburto
+ECE-340,"Gilbert, Matthew",2012-fa,Semiconductor Electronics,matthewg
+ECE-395,"Haken, Lippold",2016-sp,Advanced Digital Projects Lab,l-haken
+ECE-482,"Rosenbaum, Elyse",2014-fa,Digital IC Design,elyse
+ECE-190,"Hu, Yih-Chun",2012-fa,Intro to Computing Systems,yihchun
+ECE-333,"Overbye, Thomas J",2015-sp,Green Electric Energy,overbye
+ECE-469,"Pilawa, Robert",2012-fa,Power Electronics Laboratory,
+ECE-547,"Huang, Thomas S",2010-fa,Topics in Image Processing,t-huang1
+ECE-210,"Schutt-Aine, Jose E",2017-fa,Analog Signal Processing,jesa
+ECE-431,"Haran, Kiruba S",2015-sp,Electric Machinery,kharan
+ECE-485,"Liu, Gang L",2017-fa,MEMS Devices & Systems,
+ECE-307,"Gross, George",2014-sp,Techniques for Engrg Decisions,gross
+ECE-445,"Kumar, Rakesh",2018-sp,Senior Design Project Lab,rakeshk
+ECE-330,"Sauer, Peter W",2012-fa,Power Ckts & Electromechanics,psauer
+ECE-445,"Makela, Jonathan J",2011-fa,Senior Design Project Lab,jmakela
+ECE-391,"Kalbarczyk, Zbigniew T",2014-sp,Computer Systems Engineering,kalbarcz
+ECE-580,"Srikant, Rayadurgam",2013-fa,Optimiz by Vector Space Methds,rsrikant
+ECE-498,"Levchenko, Kirill I",2018-fa,eCrime & Internet Serv Abuse,klevchen
+ECE-210,"Basar, Tangul",2011-fa,Analog Signal Processing,tangul
+ECE-340,"Carney, Paul S",2011-fa,Semiconductor Electronics,
+ECE-490,"Kumar, P R",2010-sp,Introduction to Optimization,
+ECE-333,"Gross, George",2015-fa,Green Electric Energy,gross
+ECE-402,"Haken, Lippold",2017-fa,Electronic Music Synthesis,l-haken
+ECE-408,"Patel, Sanjay J",2013-fa,Applied Parallel Programming,sjp
+ECE-431,"Sauer, Peter W",2013-sp,Electric Machinery,psauer
+ECE-408,"Hwu, Wen-Mei W",2017-fa,Applied Parallel Programming,
+ECE-329,"Liang, Zhi-Pei",2015-fa,Fields and Waves I,z-liang
+ECE-313,"Hassanzadeh, Farzad",2012-sp,Probability with Engrg Applic,
+ECE-447,"Feng, Milton",2011-sp,Active Microwave Ckt Design,mfeng
+ECE-350,"Chew, Weng C",2017-sp,Fields and Waves II,w-chew
+ECE-581,"Hanumolu, Pavan Kumar",2018-fa,Advanced Analog IC Design,hanumolu
+ECE-311,"Bresler, Yoram",2018-fa,Digital Signal Processing Lab,ybresler
+ECE-205,"Radhakrishnan, Chandrasek",2018-sp,Elec & Electronic Circuits,
+ECE-482,"Rosenbaum, Elyse",2013-fa,Digital IC Design,elyse
+ECE-515,"Basar, M T",2013-fa,Control System Theory & Design,
+ECE-205,"Radhakrishnan, Chandrasek",2016-sp,Elec & Electronic Circuits,
+ECE-205,"Zhang, Jianhua",2011-fa,Elec & Electronic Circuits,jhdzhang
+ECE-391,"Borisov, Nikita",2012-fa,Computer Systems Engineering,nikita
+ECE-453,"Franke, Steven J",2014-sp,Wireless Communication Systems,s-franke
+ECE-380,"Boppart, Stephen A",2010-sp,Biomedical Imaging,boppart
+ECE-343,"Radhakrishnan, Chandrasek",2014-sp,Electronic Circuits Laboratory,
+ECE-314,"Hajek, Bruce",2017-fa,Probability in Engineering Lab,b-hajek
+ECE-462,"Vasudevan, Shobha",2010-fa,Logic Design,shobhav
+ECE-473,"Oelze, Michael L",2016-sp,Fund of Engrg Acoustics,oelze
+ECE-486,"Hutchinson, Seth A",2015-fa,Control Systems,seth
+ECE-549,"Lazebnik, Svetlana",2014-sp,Computer Vision,
+ECE-206,"Venkatesan, Neeraj",2014-fa,Elec & Electronic Circuits Lab,
+ECE-380,"Gao, Liang",2016-fa,Biomedical Imaging,gaol
+ECE-549,"Hoiem, Derek W",2015-sp,Computer Vision,dhoiem
+ECE-205,"Radhakrishnan, Chandrasek",2015-sp,Elec & Electronic Circuits,
+ECE-210,"Jones, Douglas L",2010-fa,Analog Signal Processing,dl-jones
+ECE-350,"Schutt-Aine, Jose E",2012-sp,Fields and Waves II,jesa
+ECE-534,"Srikant, Rayadurgam",2016-fa,Random Processes,rsrikant
+ECE-425,"Wong, Martin D",2014-fa,Intro to VLSI System Design,mdfwong
+ECE-310,"Liang, Zhi-Pei",2011-fa,Digital Signal Processing,z-liang
+ECE-206,"Radhakrishnan, Chandrasek",2018-fa,Electrical & Electronics Lab,
+ECE-398,"Veeravalli, Venugopal V",2017-sp,Making Sense of Big Data,vvv
+ECE-416,"Cunningham, Brian T",2018-sp,Biosensors,bcunning
+ECE-488,"Feng, Milton",2013-sp,Compound Semicond & Devices,mfeng
+ECE-528,"Stipanovic, Dusan M",2017-sp,Analysis of Nonlinear Systems,
+ECE-317,"Peck, Timothy L",2010-fa,ECE Technology & Management,
+ECE-210,"He, Wei",2014-fa,Analog Signal Processing,weihe16
+ECE-464,"Krein, Philip T",2010-fa,Power Electronics,krein
+ECE-551,"Dokmanic, Ivan",2017-fa,Digital Signal Processing II,dokmanic
+ECE-411,"Kim, Nam Sung",2016-sp,Computer Organization & Design,
+ECE-444,"Sievers, Dane J",2012-sp,IC Device Theory & Fabrication,
+ECE-317,"Frizzell, Leon A",2013-sp,ECE Technology & Management,frizz
+ECE-520,"Yan, Su",2012-fa,EM Waves & Radiating Systems,
+ECE-444,"Li, Xiuling",2015-fa,IC Device Theory & Fabrication,xiuling
+ECE-398,"Do, Minh N",2014-sp,Making Sense of Big Data,minhdo
+ECE-485,"Liu, Gang L",2010-fa,MEMS Devices & Systems,
+ECE-544,"Hasegawa-Johnso, Mark A",2013-fa,Pattern Recognition,
+ECE-483,"Hanumolu, Pavan Kumar",2014-sp,Analog IC Design,hanumolu
+ECE-462,"Vasudevan, Shobha",2015-fa,Logic Synthesis,shobhav
+ECE-311,"Do, Minh N",2018-sp,Digital Signal Processing Lab,minhdo
+ECE-469,"Banerjee, Arijit",2017-fa,Power Electronics Laboratory,arijit
+ECE-455,"Eden, James G",2010-fa,Optical Electronics,
+ECE-420,"Allen, Jont",2016-fa,Embedded DSP Laboratory,jontalle
+ECE-534,"Milenkovic, Olgica",2017-sp,Random Processes,milenkov
+ECE-450,"Kudeki, Erhan",2011-sp,"Lines, Fields, and Waves",erhan
+ECE-420,"Levinson, Stephen E",2011-fa,Embedded DSP Laboratory,selevins
+ECE-411,"Kumar, Rakesh",2013-fa,Computer Organization & Design,rakeshk
+ECE-483,"Hanumolu, Pavan Kumar",2018-sp,Analog IC Design,hanumolu
+ECE-401,"Hasegawa-Johnso, Mark A",2017-sp,Signal and Image Analysis,
+ECE-307,"Gross, George",2013-sp,Techniques for Engrg Decisions,gross
+ECE-586,"Srikant, Rayadurgam",2017-fa,"MDPs, Reinforcement Learning",rsrikant
+ECE-473,"Oelze, Michael L",2011-fa,Fund of Engrg Acoustics,oelze
+ECE-515,"Hutchinson, Seth A",2012-fa,Control System Theory & Design,seth
+ECE-452,"Chew, Weng C",2014-fa,Electromagnetic Fields,w-chew
+ECE-470,"Hutchinson, Seth A",2011-fa,Introduction to Robotics,seth
+ECE-453,"Franke, Steven J",2018-sp,Wireless Communication Systems,s-franke
+ECE-486,"Liberzon, Daniel M",2011-fa,Control Systems,liberzon
+ECE-486,"Hutchinson, Seth A",2015-sp,Control Systems,seth
+ECE-350,"Dragic, Peter D",2015-sp,Fields and Waves II,p-dragic
+ECE-340,"Leburton, Jean-Pierre",2016-sp,Semiconductor Electronics,jleburto
+ECE-456,"Makela, Jonathan J",2014-sp,Global Nav Satellite Systems,jmakela
+ECE-101,"Schmitz, Christopher",2011-sp,Exploring Digital Info Technol,cdschmit
+ECE-190,"Hu, Yih-Chun",2013-fa,Intro to Computing Systems,yihchun
+ECE-340,"Dallesasse, John M",2013-fa,Semiconductor Electronics,jdallesa
+ECE-444,"Li, Xiuling",2014-fa,IC Device Theory & Fabrication,xiuling
+ECE-444,"Sievers, Dane J",2013-fa,IC Device Theory & Fabrication,
+ECE-462,"Vasudevan, Shobha",2014-fa,Logic Synthesis,shobhav
+ECE-515,"Belabbas, Mohamed Ali",2015-fa,Control System Theory & Design,belabbas
+ECE-470,"Hutchinson, Seth A",2016-fa,Introduction to Robotics,seth
+ECE-528,"Mehta, Prashant G",2013-sp,Analysis of Nonlinear Systems,mehtapg
+ECE-385,"Cheng, Zuofu",2015-fa,Digital Systems Laboratory,zcheng1
+ECE-391,"Kalbarczyk, Zbigniew T",2015-sp,Computer Systems Engineering,kalbarcz
+ECE-430,"Bazzi, Ali M",2011-sp,Power Ckts & Electromechanics,
+ECE-205,"Zhang, Jianhua",2010-fa,Elec & Electronic Circuits,jhdzhang
+ECE-455,"Eden, James G",2018-fa,Optical Electronics,
+ECE-385,"Chen, Deming",2013-sp,Digital Systems Laboratory,dchen
+ECE-340,"Gilbert, Matthew",2015-sp,Semiconductor Electronics,matthewg
+ECE-206,"Sharma, Abhishek",2015-fa,Elec & Electronic Circuits Lab,
+ECE-480,"Liang, Zhi-Pei",2018-fa,Magnetic Resonance Imaging,z-liang
+ECE-425,"Chen, Deming",2016-fa,Intro to VLSI System Design,dchen
+ECE-517,"Liberzon, Daniel M",2016-fa,Nonlinear & Adaptive Control,liberzon
+ECE-190,"Mitra, Sayan",2011-fa,Intro to Computing Systems,mitras
+ECE-205,"Haney, Michael J",2013-sp,Elec & Electronic Circuits,
+ECE-515,"Salapaka, Srinivasa M",2018-sp,Control System Theory & Design,
+ECE-459,"Alvarez, Juan",2014-fa,Communications Systems,alvarez
+ECE-453,"Franke, Steven J",2010-fa,Wireless Communication Systems,s-franke
+ECE-576,"Sauer, Peter W",2011-sp,Power System Dynm & Stability,psauer
+ECE-391,"Stratton, John A",2013-sp,Computer Systems Engineering,stratton
+ECE-316,"Hillmer, Philip M",2016-fa,Ethics and Engineering,hillmer
+ECE-453,"Franke, Steven J",2016-sp,Wireless Communication Systems,s-franke
+ECE-313,"Milenkovic, Olgica",2014-fa,Probability with Engrg Applic,milenkov
+ECE-330,"Bose, Subhonmesh",2018-sp,Power Ckts & Electromechanics,boses
+ECE-420,"Levinson, Stephen E",2014-sp,Embedded DSP Laboratory,selevins
+ECE-110,"Frizzell, Leon A",2011-fa,Intro Elec & Computer Engrg,frizz
+ECE-418,"Moulin, Pierre",2016-sp,Image & Video Processing,pmoulin
+ECE-473,"O'Brien, William D",2011-sp,Fund of Engrg Acoustics,
+ECE-402,"Haken, Lippold",2017-sp,Electronic Music Synthesis,l-haken
+ECE-317,"He, Wei",2018-sp,ECE Technology & Management,weihe16
+ECE-598,"Hwu, Wen-Mei W",2010-fa,Special Topics in ECE,
+ECE-391,"Kalbarczyk, Zbigniew T",2010-fa,Computer Systems Engineering,kalbarcz
+ECE-395,"Haken, Lippold",2015-fa,Advanced Digital Projects Lab,l-haken
+ECE-454,"Bernhard, Jennifer T",2013-sp,Antennas,jbernhar
+ECE-520,"Jin, Jianming",2013-fa,EM Waves & Radiating Systems,j-jin1
+ECE-498,"Patel, Sanjay J",2010-sp,Special Topics in ECE,sjp
+ECE-342,"Rosenbaum, Elyse",2012-fa,Electronic Circuits,elyse
+ECE-210,"Jiang, Jing",2017-sp,Analog Signal Processing,
+ECE-551,"Do, Minh N",2016-fa,Digital Signal Processing II,minhdo
+ECE-490,"Baryshnikov, Juliy",2016-sp,Introduction to Optimization,
+ECE-411,"Hwu, Wen-Mei W",2015-fa,Computer Organization & Design,
+ECE-417,"Hasegawa-Johnso, Mark A",2018-fa,Multimedia Signal Processing,
+ECE-447,"Gong, Songbin",2016-fa,Active Microwave Ckt Design,songbin
+ECE-411,"Kumar, Rakesh",2018-fa,Computer Organization & Design,rakeshk
+ECE-445,"Singer, Andrew C",2012-fa,Senior Design Project Lab,acsinger
+ECE-486,"Hutchinson, Seth A",2010-sp,Control Systems,seth
+ECE-316,"Hillmer, Philip M",2017-fa,Ethics and Engineering,hillmer
+ECE-425,"Wong, Martin D",2011-fa,Intro to VLSI System Design,mdfwong
+ECE-450,"Kudeki, Erhan",2010-fa,"Lines, Fields, and Waves",erhan
+ECE-307,"Gross, George",2011-sp,Techniques for Engrg Decisions,gross
+ECE-486,"Belabbas, Mohamed Ali",2013-fa,Control Systems,belabbas
+ECE-445,"Carney, Paul S",2014-sp,Senior Design Project Lab,
+ECE-380,"Boppart, Stephen A",2015-fa,Biomedical Imaging,boppart
+ECE-455,"Eden, James G",2011-fa,Optical Electronics,
+ECE-205,"Zhang, Jianhua",2010-sp,Elec & Electronic Circuits,jhdzhang
+ECE-385,"Chan, Sao-Jie",2010-sp,Digital Systems Laboratory,
+ECE-220,"Chen, Yuting W",2018-sp,Computer Systems & Programming,ywchen
+ECE-110,"Goddard, Lynford L",2012-fa,Intro Elec & Computer Engrg,lgoddard
+ECE-408,"Hwu, Wen-Mei W",2011-fa,Applied Parallel Programming,
+ECE-486,"Liberzon, Daniel M",2016-sp,Control Systems,liberzon
+ECE-330,"Guo, Siming",2015-sp,Power Ckts & Electromechanics,
+ECE-120,"Jaramillo Jimen, Juan Jos",2016-fa,Introduction to Computing,
+ECE-444,"Coleman, James J",2011-fa,IC Device Theory & Fabrication,jcoleman
+ECE-380,"Boppart, Stephen A",2011-sp,Biomedical Imaging,boppart
+ECE-290,"Loui, Michael C",2011-fa,Computer Engineering I,loui
+ECE-528,"Olshevsky, Alexander",2014-sp,Analysis of Nonlinear Systems,
+ECE-316,"Hillmer, Philip M",2010-fa,Ethics and Engineering,hillmer
+ECE-361,"Varshney, Lav R",2014-sp,Digital Communications,varshney
+ECE-385,"Kumar, Rakesh",2011-fa,Digital Systems Laboratory,rakeshk
+ECE-316,"Hillmer, Philip M",2012-fa,Ethics and Engineering,hillmer
+ECE-350,"Kudeki, Erhan",2013-sp,Fields and Waves II,erhan
+ECE-508,"Hwu, Wen-Mei W",2017-sp,Manycore Parallel Algorithms,
+ECE-385,"Chen, Deming",2017-sp,Digital Systems Laboratory,dchen
+ECE-476,"Dominguez-Garci, Alejandr",2013-fa,Power System Analysis,
+ECE-101,"Schmitz, Christopher",2012-fa,Exploring Digital Info Technol,cdschmit
+ECE-333,"Dominguez-Garci, Alejandr",2011-fa,Green Electric Energy,
+ECE-455,"Eden, James G",2015-fa,Optical Electronics,
+ECE-110,"Choi, Hyungsoo",2018-sp,Introduction to Electronics,hyungsoo
+ECE-314,"Hajek, Bruce",2018-fa,Probability in Engineering Lab,b-hajek
+ECE-417,"Hasegawa-Johnso, Mark A",2016-sp,Multimedia Signal Processing,
+ECE-453,"Franke, Steven J",2010-sp,Wireless Communication Systems,s-franke
+ECE-410,"Hasegawa-Johnso, Mark A",2010-fa,Digital Signal Processing I,
+ECE-440,"Gilbert, Matthew",2010-fa,Solid State Electronic Devices,matthewg
+ECE-342,"Rosenbaum, Elyse",2017-sp,Electronic Circuits,elyse
+ECE-120,"Varodayan, David",2018-sp,Introduction to Computing,
+ECE-342,"Hajj, Ibrahim N",2014-fa,Electronic Circuits,ihajj
+ECE-441,"Zhu, Wenjuan",2017-sp,Physcs & Modeling Semicond Dev,wjzhu
+ECE-210,"Basar, Tangul",2014-sp,Analog Signal Processing,tangul
+ECE-205,"Haney, Michael J",2014-sp,Elec & Electronic Circuits,
+ECE-333,"Gross, George",2016-fa,Green Electric Energy,gross
+ECE-385,"Kindratenko, Volodymyr",2014-sp,Digital Systems Laboratory,kindrtnk
+ECE-329,"Roach, Tyrone L",2010-sp,Fields and Waves I,
+ECE-462,"Vasudevan, Shobha",2012-fa,Logic Design,shobhav
+ECE-473,"Campos Coiado, Olivia",2015-sp,Fund of Engrg Acoustics,
+ECE-481,"Lyding, Joseph W",2013-sp,Nanotechnology,lyding
+ECE-450,"Franke, Patricia M",2010-sp,"Lines, Fields, and Waves",
+ECE-486,"Raginsky, Maxim",2013-sp,Control Systems,maxim
+ECE-445,"Oelze, Michael L",2017-sp,Senior Design Project Lab,oelze
+ECE-411,"Polychronopoulo, Constant",2010-fa,Computer Organization & Design,
+ECE-598,"Raginsky, Maxim",2015-fa,Statistical Learning Theory,maxim
+ECE-511,"Frank, Matthew I",2012-fa,Computer Architecture,
+ECE-534,"Milenkovic, Olgica",2014-sp,Random Processes,milenkov
+ECE-385,"Kumar, Rakesh",2010-fa,Digital Systems Laboratory,rakeshk
+ECE-313,"Alvarez, Juan",2011-sp,Probability with Engrg Applic,alvarez
+ECE-490,"Baryshnikov, Juliy",2013-sp,Introduction to Optimization,
+ECE-290,"Vasudevan, Shobha",2010-sp,Computer Engineering I,shobhav
+ECE-350,"Cangellaris, Andreas C",2011-fa,Fields and Waves II,cangella
+ECE-515,"Kumar, P R",2010-fa,Control System Theory & Design,
+ECE-445,"Swenson, Gary R",2010-fa,Senior Design Project Lab,swenson1
+ECE-444,"Coleman, James J",2010-sp,IC Device Theory & Fabrication,jcoleman
+ECE-310,"Smaragdis, Paris",2013-sp,Digital Signal Processing,paris
+ECE-361,"Alvarez, Juan",2017-sp,Digital Communications,alvarez
+ECE-455,"Eden, James G",2014-fa,Optical Electronics,
+ECE-444,"Li, Xiuling",2011-sp,IC Device Theory & Fabrication,xiuling
+ECE-333,"Overbye, Thomas J",2010-fa,Green Electric Energy,overbye
+ECE-464,"Krein, Philip T",2014-fa,Power Electronics,krein
+ECE-313,"Veeravalli, Venugopal V",2018-fa,Probability with Engrg Applic,vvv
+ECE-311,"Ma, Chao",2012-fa,Digital Signal Processing Lab,
+ECE-598,"Zhu, Wenjuan",2018-fa,2D Material Electr & Photonics,wjzhu
+ECE-220,"Chen, Yuting W",2018-fa,Computer Systems & Programming,ywchen
+ECE-311,"Wei, Michael",2014-sp,Digital Signal Processing Lab,
+ECE-430,"Sauer, Peter W",2010-fa,Power Ckts & Electromechanics,psauer
+ECE-340,"Dallesasse, John M",2018-fa,Semiconductor Electronics,jdallesa
+ECE-110,"Haken, Lippold",2011-sp,Intro Elec & Computer Engrg,l-haken
+ECE-408,"Hwu, Wen-Mei W",2016-fa,Applied Parallel Programming,

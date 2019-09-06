@@ -1,0 +1,35 @@
+{% extends "_base.html" %}
+{% block content %}
+
+<div class='text-center'>
+  <h1>Ask the class a question</h1>
+</div>
+
+<br>
+
+<form action ="/instrquestion" method = "POST">
+  <div class = "form-group">
+    <input name = "instr_question" class = "form-control input-lg" type="text" placeholder="Enter a question" required>
+    <input name = "optionA" class = "form-control input-lg" type = "text" placeholder = "Enter option a for questions" required>
+    <input name = "optionB" class = "form-control input-lg" type = "text" placeholder = "Enter option b for questions" required>
+    <input name = "optionC" class = "form-control input-lg" type = "text" placeholder = "Enter option c for quesitons"  required>
+    <input name = "optionD" class =  "form-control input-lg" type = "text" placeholder = "Enter option d for questions" required>
+    <input name = "answer" class = "form-control input-lg" type = "text" placeholder = "Enter the correct answer" required>
+
+  </div>
+  <input type = "submit" class = "btn btn-primary btn-lg btn-block" value = "Submit">
+</form>
+
+<br>
+<hr>
+
+<div>
+  {% for question in questions %}
+    <h4 class="well"> /<strong>{{question.ques}}</strong> - <em>{{question.date_posted.strftime('%Y-%m-%d')}}</em>
+    </h4>
+    <br/>
+    <br/>
+  {% endfor %}
+</div>
+
+{% endblock %}

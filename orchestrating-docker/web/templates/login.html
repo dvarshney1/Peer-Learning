@@ -1,0 +1,22 @@
+{% extends "_base.html" %}
+{% block content %}
+
+<div class='text-center'>
+  <h1>Enter your credentials</h1>
+</div>
+
+<br>
+
+<form action ="/login" method = "POST">
+  <div class = "form-group">
+    <input name = "netid" class = "form-control input-lg" type="text" placeholder="Enter your NetID" required>
+    <br>
+    <input name = "password" class = "form-control input-lg" type="text" placeholder="Enter your password" required>
+  </div>
+  <input type = "submit" class = "btn btn-primary btn-lg btn-block" value = "Submit">
+</form>
+
+<br>
+<hr>
+
+{% endblock %}
