@@ -16,4 +16,10 @@ Project Features:
 * Currently features/can code in Python in the environment
 * Have used *swagger* to act as an interface for better debugging and understanding of the back-end
 
+Look at:
+```
+/orchestrating-docker/web/scripts/run.sh
+```
+to start docker and swagger at ``` localhost:10080 ```
+
 Cheers!
